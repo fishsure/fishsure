@@ -26,5 +26,5 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fishsure&theme=dark&layout=compact&count_private=true)
 
-![fishsure commit message](https://github.com/fishsure/fishsure/blob/output/dist/github-contribution-grid-snake.svg)
-# Trigger workflow
+![fishsure commit message](https://github.com/fishsure/fishsure/blob/output/github-contribution-grid-snake.svg)
+
