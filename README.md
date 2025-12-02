@@ -22,9 +22,7 @@
 ![](https://img.shields.io/badge/Markdown-4169E1)
 ![](https://img.shields.io/badge/LaTeX-327166)
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=fishsure&show_icons=true&hide_border=true&theme=radical" />
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fishsure&theme=dark&layout=compact&count_private=true)
 
 ![fishsure commit message](https://github.com/fishsure/fishsure/blob/output/github-contribution-grid-snake.svg)
 
