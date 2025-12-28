@@ -3,7 +3,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-6D6D6D?style=flat&logo=Github&logoColor=white)](https://github.com/fishsure)
 [![Gmail](https://img.shields.io/badge/-Gmail-E68A8A?style=flat&logo=Gmail&logoColor=white)](mailto:fishsure531@gmail.com)
-[![USTCMail](https://img.shields.io/badge/-USTCMail-71B3EA?style=flat&logo=maildotcom&logoColor=white)](mailto:daoyu.wang@mail.ustc.edu.cn)
+[![USTCMail](https://img.shields.io/badge/-USTCMail-71B3EA?style=flat&logo=maildotcom&logoColor=white)](mailto:yu12345@mail.ustc.edu.cn)
 [![HomePage](https://img.shields.io/badge/-HomePage-EFBF8D?style=flat&logo=bookmyshow&logoColor=white)](https://fishsure.github.io/)
 
 **Welcome to my Github page!**    
